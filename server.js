@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb+srv://2312114:<himani2023>@cluster0.g7ucxge.mongodb.net/', {
+mongoose.connect('mongodb+srv://2312114:himani2023@cluster0.g7ucxge.mongodb.net/', {
 useNewUrlParser: true,
     useUnifiedTopology: true
 })

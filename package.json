@@ -1,4 +1,7 @@
+
 {
+  "start": "nodemon server.js",
+
   "name": "lab-backend-api",
   "version": "1.0.0",
   "main": "index.js",
